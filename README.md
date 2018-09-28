@@ -1,2 +1,1 @@
-# thp_ruby
-Ruby projects for the initiation week of The Hacking Project
+Exercices Ruby Semaine 0 THP
